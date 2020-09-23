@@ -2,9 +2,9 @@
 I am a Software Engineer with a particular interest in front-end development. My specialties include React, Javascript, GraphQL, Python, Node and Express.
 
 ***To view some cool projects, please scroll to Pinned section, and check out my [portfolio](https://www.mdiaz.dev/)!***
-
-When I am not programming, I like to 3D model designs using the Zbrush sculpting software, send it to my 3D printer and make them come to life. I also like to spend time with my two cats, and my supportive wife. If you’d like to know more, feel free to get in touch! 
 <div align="center"> 😺👪 </div>
+When I am not programming, I like to 3D model designs using the Zbrush sculpting software, send it to my 3D printer and make them come to life. I also like to spend time with my two cats, and my supportive wife. If you’d like to know more, feel free to get in touch! 
+
 
  ## <div align="center">I can code with 💻 </div>
 <p align="center">
