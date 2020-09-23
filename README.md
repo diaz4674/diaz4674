@@ -11,6 +11,7 @@ When I am not programming, I like to 3D model designs using the Zbrush sculpting
 <img src="https://github.com/diaz4674/diaz4674/blob/master/images/html5.svg">
   <img src="https://github.com/diaz4674/diaz4674/blob/master/images/css3.svg">
   <img src="https://github.com/diaz4674/diaz4674/blob/master/images/javascript.svg">
+  <img src="https://github.com/diaz4674/diaz4674/blob/master/images/react.svg">
   <img src="https://github.com/diaz4674/diaz4674/blob/master/images/GraphQL_Logo.svg.png">
   <img src="https://github.com/diaz4674/diaz4674/blob/master/images/nodejs.svg">
   <img src="https://github.com/diaz4674/diaz4674/blob/master/images/postgresql.svg">
