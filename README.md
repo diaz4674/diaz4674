@@ -1,4 +1,4 @@
-<div align="center"> <img src = "https://github.com/diaz4674/diaz4674/blob/master/images/BatmanMe.png" width="200"> </div>
+<div align="center"> <img src = "https://github.com/diaz4674/diaz4674/blob/master/images/BatmanMe.png" width="246"> </div>
 
 ### Hello World! 👋🌎
 
