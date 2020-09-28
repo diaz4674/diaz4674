@@ -1,5 +1,6 @@
 ### Hello World! 👋🌎
-<img src = "https://github.com/diaz4674/diaz4674/blob/master/images/BatmanMe.png" width="400" align="center">
+
+<img src = "https://github.com/diaz4674/diaz4674/blob/master/images/BatmanMe.png" width="280">
 
 I am a Software Engineer with a particular interest in front-end development. My specialties include React, Javascript, GraphQL, Python, Node and Express.
 
