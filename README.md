@@ -25,7 +25,7 @@ When I am not programming, I like to [3D model](https://www.instagram.com/explor
 
 
 ## 🔭 I’m currently working on ...
-  - Earning an AWS Developer Certficate
+  - Earning an AWS Solutions Architect - Associate Certficate
   - Learning to train my cats
 <!--
 **diaz4674/diaz4674** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
