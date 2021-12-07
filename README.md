@@ -1,6 +1,6 @@
 ### Hello World! 👋🌎
 
-I am a Software Engineer at Cisco with a particular interest in front-end development.  
+I am a Software Engineer with a particular interest in front-end development.  
 My specialties include React, Angular, Typescript, Javascript, Java, Python, Node and Express.
 
 ***To view some cool projects, please scroll to Pinned section, and check out my [portfolio](https://www.mdiaz.dev/)!***
