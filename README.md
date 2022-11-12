@@ -1,7 +1,7 @@
 ### Hello World! 👋🌎
 
 I am a Software Engineer with a particular interest in front-end development.  
-My specialties include React, Angular, Typescript, Javascript, Python, Node and Express.
+My specialties include React, Vue (2 & 3), Angular, Typescript, Javascript, Python, Node and Express.
 
 ***To view some cool projects, please scroll to Pinned section, and check out my [portfolio](https://www.mdiaz.dev/)!***
 
