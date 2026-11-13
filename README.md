@@ -1,41 +1,20 @@
-### Hello World! 👋🌎
+### Hi, I'm Miguel 👋
 
-I am a Software Engineer with a particular interest in front-end development.  
-My specialties include React, Vue (2 & 3), Angular, Typescript, Javascript, Python, Node and Express.
+Frontend-focused full-stack engineer with 7 years of experience shipping production SaaS with React, Next.js, and TypeScript on top of Node.js and Ruby on Rails APIs. Open to remote Frontend and Full-Stack roles.
 
-***To view some cool projects, please scroll to Pinned section, and check out my [portfolio](https://www.mdiaz.dev/)!***
+#### 🚀 Featured: [Multiwatch](https://too-many-streams.vercel.app) · [code](https://github.com/diaz4674/TooManyStreams)
+Multi-stream viewer for Twitch and YouTube Live: drag-and-drop stream wall, theater and focus layouts, browser-only Twitch OAuth, prerendered SEO pages, and unit tests.
+`React 19` `Zustand` `Tailwind CSS` `Vite` `Vercel`
 
+#### 🔧 Recent work
+- Built Claude Code skills that automate dev publishing/deploys and AI code review
+- Shipped AI-assisted moderation features and cross-platform social-post previews (Facebook, Instagram, TikTok, YouTube)
+- Led a shared React component library and Plaid-integrated Node.js services at a fintech startup
 
-When I am not programming, I like to [3D model](https://www.instagram.com/explore/tags/miggyprints/?hl=en) designs using the Zbrush sculpting software, send it to my 3D printer and make them come to life. I also like to spend time with my two cats, and my supportive wife. If you’d like to know more, feel free to get in touch! 
+#### 🧰 Stack
+TypeScript · JavaScript · React · Next.js · Redux · Zustand · Tailwind CSS · Node.js · Express · Ruby on Rails · Python · GraphQL · PostgreSQL · Jest · Vitest · Playwright · Storybook · AWS · Claude Code
 
+#### 📫 Find me
+[mdiaz.dev](https://www.mdiaz.dev) · [LinkedIn](https://www.linkedin.com/in/diaz4674)
 
- ## <div align="center">I can code with 💻 </div>
-<p align="center">
-<img src="https://github.com/diaz4674/diaz4674/blob/master/images/html5.svg">
-  <img src="https://github.com/diaz4674/diaz4674/blob/master/images/css3.svg">
-  <img src="https://github.com/diaz4674/diaz4674/blob/master/images/javascript.svg">
-  <img src="https://github.com/diaz4674/diaz4674/blob/master/images/react.svg">
-  <img src="https://github.com/diaz4674/diaz4674/blob/master/images/GraphQL_Logo.svg.png">
-  <img src="https://github.com/diaz4674/diaz4674/blob/master/images/nodejs.svg">
-  <img src="https://github.com/diaz4674/diaz4674/blob/master/images/postgresql.svg">
-  <img src="https://github.com/diaz4674/diaz4674/blob/master/images/python.svg">
-  <img src="https://github.com/diaz4674/diaz4674/blob/master/images/django.svg">
-</p>
-
-
-## 🔭 I’m currently working on ...
-  - Learning to train my cats
-<!--
-**diaz4674/diaz4674** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+When I'm not coding, I'm 3D modeling and printing, or hanging out with my wife and two cats.
